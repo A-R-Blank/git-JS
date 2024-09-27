@@ -1,0 +1,197 @@
+* {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+button {
+  border: none;
+  background: #3172B9;
+  text-decoration: none;
+  color: white;
+  font-weight: 600;
+}
+
+p,h1,h2,h3,h4,h5,h6 {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  margin: auto;
+  width: 1540px;
+  height: 4068px;
+}
+
+.nav-text-style {
+  color: black;
+  font-weight: 600;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.home-text-style {
+  font-weight: 600;
+  color:#3172B9;
+}
+
+.button-home {
+  border-radius: 3px;
+  width: 150px;
+  height: 50px;
+}
+
+.home-section-background{
+  height: 550px;
+  background-image: url(./image/first-bg.svg); /* нужен ли alt? */
+}
+
+.ssl-secured-backgraund {
+  background-image: url(./image/secure.svg);
+  background-repeat: no-repeat;
+  width: 14px;
+  height: 17px;
+}
+
+.h1-text {
+  font-weight: 300;
+  font-size: 40px;
+  width: 529px;
+  height: 104px;
+  padding-top: 133px;
+  margin-left: 185px;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: 300;
+  }
+
+h3 {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.text-under-heading {
+  font-size: 16px;
+  color: #787878;
+  font-weight: 400;
+  
+}
+
+.first-text-width {
+  width: 471px;
+  margin: 26px 0 0 185px;
+}
+
+.button-free-trial {
+  border-radius: 3px;
+  width: 250px;
+  height: 58px;
+}
+
+.text-ssl-secured {
+  font-weight: 400;
+  font-size: 11px;
+  width: 143px;
+  height: 17px;
+  color: #787878;
+}
+
+.frame-syze {
+  width: 270px;
+  height: 320px;
+  border: 1px solid #E4E4E4;
+  border-radius: 3px;
+}
+
+.text-in-cards {
+  font-weight: 400;
+  font-size: 14px;
+  width: 210px;
+  height: 63px;
+  color: #787878;
+}
+
+.date-of-pic {
+  font-size: 10px;
+  color: #787878;
+}
+
+.articles-frame-syze{
+  width: 570px;
+  height: 180px;
+  border: 1px solid #E4E4E4; /* почему в примере другой цвет рамки и прозрачность 30%? */
+  border-radius: 3px;
+}
+
+.clients-text-in-cards {
+  font-weight: 400;
+  font-size: 14px;
+  width: 281px;
+  height: 150px;
+  color: #787878;
+}
+
+.circle-image {
+  display: inline-block;
+  border-radius: 50%;
+  overflow: hidden;
+  width: 67px;
+  height: 67px;
+  border: 2px solid #3172B9
+}
+
+.clients-name {
+  font-size: 17px;
+}
+
+.clients-frame-syze {
+  width: 370px;
+  height: 362px;
+  border: 1px solid #E4E4E4; 
+  
+  border-radius: 3px;
+}
+
+
+.contacts-text-style {
+  font-weight: 600;
+  font-size: 17px;
+}
+
+.text-in-contacts {
+  font-weight: 400;
+  font-size: 14px;
+  width: 214px;
+  height: 50px;
+  color: #787878;
+}
+
+.copyright-text-style {
+  font-weight: 400;
+  font-size: 12px;
+  color: #787878;
+}
+
+.footer-text-style {
+  font-weight: 600;
+  font-size: 15px;
+  color: #787878;
+}
+
+.footer-contacts-link {
+  width: 17px;
+  height: 17px;
+}
